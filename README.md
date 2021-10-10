@@ -23,8 +23,8 @@ Install docker. (for that we need to install yum-utils packages)
 
 2. use yum-configuration-manager to set up docker repository.
 
-**Command**: yum-config-manger -add-repo <repo location>
+**Command**: yum-config-manger --add-repo https://download.docker.com/linux/centos/docker-ce.repo
 
 3. verify docker repository on the OS.
 
-There is a docker-ce.repo under this directory. 
+There is a docker-ce.repo under /etc/yum.repos.d directory. 
