@@ -13,9 +13,9 @@ This repository is dedicated for learnings acquired as a part of devops training
 
 Recommended approach to install docker is using docker repository on our virtual machine.
 
-### Pre-requisites for the installation.
+### Pre-requisites for the installation:
 
-Install docker. (for that we need to install yum-utils packages)
+### **Install docker**
 
 1. install yum-utils package
 
